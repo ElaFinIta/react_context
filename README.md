@@ -1,6 +1,6 @@
 # React context
 
-To-do app project to understand React context and state managment.
+To-do app project to understand React context and state management.
 
 
 
